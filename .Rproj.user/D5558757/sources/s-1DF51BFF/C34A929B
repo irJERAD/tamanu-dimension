@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1497297521460.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C34A929B",
+    "lastKnownWriteTime" : 1497306283,
+    "last_content_update" : 1497306283129,
+    "path" : "~/Web/Tamanu/tamanu-dimension/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "46,10",
+        "scrollLine" : "28"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

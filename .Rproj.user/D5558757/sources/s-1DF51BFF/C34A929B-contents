@@ -1,0 +1,50 @@
+baseurl = "/"
+title = "Tamanu Health Supply"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+# for github pages
+publishDir = "docs"
+
+[params]
+  title = "Tamanu Health Supply"
+  description = '<!--[-->The ageless art of crafting oil from the seed of Tamanu<!--]--><br />
+                <!--[-->by the hands of local tahitian on the same lands their ancestors did<!--]-->'
+  logo = "fa-diamond"
+  copyright = "Chong Entreprise 2017"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Tamanu Health Supply"
+
+[languages.de]
+languageName = "Françés"
+weight = 2
+title = "Health Supply of Tamanu"
+description = '''<!--[-->L'AGELESS ART OF CRAFTING OIL DE LA SEMENCE DE TAMANU<!--]--><br />
+                <!--[-->PAR LES MAINS DE TAHITIAN LOCAL SUR LES MEMES TERRES, LEURS ANCESTEURS A FAIT<!--]-->'''
