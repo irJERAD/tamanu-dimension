@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3138706731",
     "id" : "C34A929B",
-    "lastKnownWriteTime" : 1497306283,
-    "last_content_update" : 1497306283129,
+    "lastKnownWriteTime" : 1497307836,
+    "last_content_update" : 1497307836515,
     "path" : "~/Web/Tamanu/tamanu-dimension/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "46,10",
-        "scrollLine" : "28"
+        "cursorPosition" : "9,2",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,

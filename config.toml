@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 # for github pages
-publishDir = "docs"
+# publishDir = "docs"
 
 [params]
   title = "Tamanu Health Supply"
